@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9dcbe618a1b77a47824b302fd611edd, type: 3}
+  m_Name: Rogue'jacket
+  m_EditorClassIdentifier: 
+  itemType: 1
+  itemName: Rogue jacket
+  icon: {fileID: 957708663, guid: a9ca9a41598dd2e44b125928045c518f, type: 3}
+  dropChance: 0
+  equipmentType: 1
+  itemCooldown: 0
+  itemEffects:
+  - {fileID: 11400000, guid: 806b40200798fb344b507748a9c0330a, type: 2}
+  strength: 0
+  agility: 0
+  intelligence: 0
+  vitality: 0
+  maxHp: 50
+  armor: 0
+  evasion: 5
+  magicResistance: 0
+  damage: 0
+  critPower: 0
+  cirtChance: 0
+  fireDamage: 0
+  iceDamage: 0
+  lightningDamage: 0
+  craftingMaterials: []
